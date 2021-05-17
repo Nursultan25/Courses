@@ -21,3 +21,5 @@ public class Main {
         System.out.println(Arrays.toString(course.students));
     }
 }
+
+//Intelligence is the ability to avoid doing work, yet getting the work done.
