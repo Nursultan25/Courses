@@ -22,4 +22,4 @@ public class Main {
     }
 }
 
-//Intelligence is the ability to avoid doing work, yet getting the work done.
+//There is a lot of ways known to do it wrong and which one is right is not clear.
